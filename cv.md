@@ -13,3 +13,22 @@ My strengths are excellent written and verbal communication skills. I can usuall
 * Mercurial,  Git
 * C#, ASP .NET
 * Joomla CMS
+
+##### Work Experience:
+
+1. **Belarusian Railway- Minsk, Belarus**
+*Full-stack developer, August 2018 to Present*
+>Develop, maintain and support Web applications using C#  and related tools. Analyze code for system testing and debugging; create test transactions to find, isolate and rectify issues.
+
+2. **Internet marketing center - Minsk, Belarus**
+*Front-end  developer, May 2018 to June 2018*
+>Create cross-browser and adaptive layout of web-sites,  placing content on the sites and also working with CMS (make changes in templates by using Smarty).
+
+3. **Web Studio "Penguin" - Minsk, Belarus**
+ *Front-end  developer, April 2017 to June 2017*
+>Create cross-browser and adaptive layout of web-sites powered by Joomla CMS.
+
+##### Education:
+Belarusian State University of Informatics and Radioelectronics, 2018
+##### Languages
+* English - B1
