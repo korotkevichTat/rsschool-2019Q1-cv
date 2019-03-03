@@ -27,3 +27,8 @@ My strengths are excellent written and verbal communication skills. I can usuall
 3. **Web Studio "Penguin" - Minsk, Belarus**
  *Front-end  developer, April 2017 to June 2017*
 >Create cross-browser and adaptive layout of web-sites powered by Joomla CMS.
+
+##### Education:
+Belarusian State University of Informatics and Radioelectronics, 2018
+##### Languages
+* English - B1
