@@ -5,10 +5,10 @@ h2{
     font-size: 36px;
 }
 h3{
-    font-size: 18px;
+    font-size: 20px;
 }
 p, ul{
-    font-size: 18px;
+    font-size: 20px;
     font-style: italic;
     color:lightslategray;
 }
@@ -33,7 +33,7 @@ img{
 
 }
 strong, em{
-    font-size: 18px;
+    font-size: 20px;
 }
 
 h3{
